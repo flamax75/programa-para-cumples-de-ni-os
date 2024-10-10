@@ -1,0 +1,19 @@
+Nombre del Programa: Gestor de Bocadillos
+
+Descripción:
+Este programa permite registrar el nombre de niños y el bocadillo que van a comer. 
+Al finalizar la entrada de datos, muestra una tabla ordenada por tipo de bocadillo y un resumen 
+de cuántos niños han elegido cada tipo de bocadillo.
+
+Instrucciones de uso:
+1. Al ejecutar el programa, se te pedirá que introduzcas el nombre del niño y su bocadillo.
+2. Escribe el nombre del niño y presiona Enter.
+3. Escribe el bocadillo que comerá el niño y presiona Enter.
+4. Repite los pasos 2 y 3 para cada niño.
+5. Cuando termines, escribe 'salir' y presiona Enter.
+6. El programa mostrará una tabla con los nombres y bocadillos, ordenada por tipo de bocadillo.
+7. Al final, se mostrará un resumen con el número de niños que eligieron cada tipo de bocadillo.
+
+Requisitos:
+- Python 3.x instalado.
+- Biblioteca 'pandas' instalada (para instalar, ejecuta: pip install pandas).
